@@ -1,0 +1,13 @@
+@api = http://localhost:3000
+
+
+####################################
+##usuarios
+####################################
+
+GET {{api}}/usuarios
+
+
+####################################
+## Para usar este archivo tenes que haber instalado la extensión REST Client
+####################################
